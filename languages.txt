@@ -1,11 +1,12 @@
 programming languages:
-	Pascal
-	C
-	C++
-	Java
-	Javascript
-	JQuery
-	Python
+	Pascal - fuerte
+	C - fuerte
+	C++ - medio
+	Java - fuerte
+	Javascript - medio
+	JQuery - medio
+	Python - debil
 
 foreign languages:
 	inglés
+
