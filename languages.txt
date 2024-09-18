@@ -1,8 +1,11 @@
-Look a change
-Pascal
-C
-C++
-Java
-Javascript
-JQuery
-Python
+programming languages:
+	Pascal
+	C
+	C++
+	Java
+	Javascript
+	JQuery
+	Python
+
+foreign languages:
+	inglés
